@@ -1,3 +1,8 @@
+# A professional grade portfolio for personal use utilizing Astro.js front-end framework
+
+This is the portfolio for personal use. Down under is a start-up guide to use a template similar to mine. GL HF
+
+
 # Astro Starter Kit: Minimal
 
 ```sh
